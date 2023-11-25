@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "cypress": "^13.2.0",
+    "prettier": "^3.0.3"
+  },
+  "name": "red-neuronal",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^16.2.3",
+    "@angular/cli": "^16.2.3",
+    "@angular/common": "^16.2.6",
+    "@angular/core": "^16.2.6",
+    "@angular/platform-browser-dynamic": "^16.2.6"
+  }
+}
